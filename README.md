@@ -1,3 +1,5 @@
+![coffee-time-neon-text-and-cup-with-hot-drink-2RF1901](https://github.com/poulami433/Coffee-Shop-Sales/assets/171598364/8e975c79-41eb-4574-9c58-c8fe5bb91f1a)
+
 I recently completed an exciting project where I leveraged retail sales data for a smarter sales strategy. The main objective was to analyze the sales data to uncover actionable insights that could enhance the coffee shop's performance. Here's a walk-through of my journey, from data cleaning to creating an insightful dynamic dashboard.
 ![image](https://github.com/poulami433/Coffee-Shop-Sales/assets/171598364/b99b8bbe-c117-4936-8f19-64f565b42b34)
 
