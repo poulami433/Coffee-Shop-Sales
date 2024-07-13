@@ -1,11 +1,11 @@
 ![coffee-time-neon-text-and-cup-with-hot-drink-2RF1901](https://github.com/poulami433/Coffee-Shop-Sales/assets/171598364/8e975c79-41eb-4574-9c58-c8fe5bb91f1a)
 
-PROJECT DESCRIPTION ::-
+ #PROJECT DESCRIPTION ::-
 
 I recently completed an exciting project where I leveraged retail sales data for a smarter sales strategy. The main objective was to analyze the sales data to uncover actionable insights that could enhance the coffee shop's performance. Here's a walk-through of my journey, from data cleaning to creating an insightful dynamic dashboard.
 ![image](https://github.com/poulami433/Coffee-Shop-Sales/assets/171598364/b99b8bbe-c117-4936-8f19-64f565b42b34)
 
-Project Objectives and Recommended Analysis :
+#Project Objectives and Recommended Analysis :
 
 The primary goal was to analyze retail sales data to gain insights that could help improve the coffee shop's operations and sales strategies. The specific questions I aimed to answer included:
 
@@ -22,14 +22,14 @@ The primary goal was to analyze retail sales data to gain insights that could he
 
 7. How do sales vary by product category and type?
 
-Steps Undertaken
+#Steps Undertaken
 
 1. Data Cleaning and Transformation Raw Data: I started with the raw data, which included transaction details such as transaction ID, date, time, store location, product details, and pricing.
 
 2. Data Transformation: Using Power Query, I cleaned and transformed the data by adding new columns such as total bill. month name, day name, hour, day of the week, and month. This process helped in organizing the data for better analysis. Here's a snapshot of the transformed data:
 ![image](https://github.com/poulami433/Coffee-Shop-Sales/assets/171598364/7e4ed97a-3d94-4d48-9778-17afbdcd0dfb)
 
-Analysis and Insights:
+#Analysis and Insights:
 
 * Sales by Day and Hour: Analyzed the sales data to observe patterns throughout the week and at different times of the day. This revealed that sales peak during the morning hours, especially between 8 AM and 11 AM, and weekdays see higher sales compared to weekends.
 
@@ -47,7 +47,7 @@ Analysis and Insights:
 
   ![image](https://github.com/poulami433/Coffee-Shop-Sales/assets/171598364/9e06c16f-50a2-4435-a9fc-369ba49ea9a8)
 
-  Dashboard Creation
+  #Dashboard Creation
 
 Developed a dynamic dashboard to visualize the data and make the insights easily accessible. The dashboard includes several key metrics and visualizations:
 
@@ -68,7 +68,7 @@ Developed a dynamic dashboard to visualize the data and make the insights easily
 
 * Included interactive slicers for months, days of the week. categories, and locations to allow for detailed, drill-down analysis.
 
-Pivot Tables and DAX Measures
+#Pivot Tables and DAX Measures
 
 To provide more granular insights. I created several pivot tables and measures using DAX:
 
